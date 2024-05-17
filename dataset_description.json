@@ -10,12 +10,10 @@
         "Jörn Diedrichsen"
     ],
     "HowToAcknowledge": "Please cite https://doi.org/10.7554/eLife.96386.1",
-    "Funding": [
-    ],
-    "EthicsApprovals": [
-    ],
+    "Funding": [],
+    "EthicsApprovals": [],
     "ReferencesAndLinks": [
         "https://doi.org/10.7554/eLife.96386.1"
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds005148.v1.0.0"
 }
